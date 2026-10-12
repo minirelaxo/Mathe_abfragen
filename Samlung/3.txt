@@ -1,0 +1,362 @@
+
+
+insgesamt:5min
+
+
+Aufgabe 1: 4 * 5 = ?
+Deine Antwort: 20
+Richtige Antwort: 20
+Bewertung: Richtig
+
+Zeit: 12.54 Sekunden
+
+Aufgabe 2: 7 * 2 = ?
+Deine Antwort: 14
+Richtige Antwort: 14
+Bewertung: Richtig
+
+Zeit: 2.52 Sekunden
+
+Aufgabe 3: 3 * 10 = ?
+Deine Antwort: 30
+Richtige Antwort: 30
+Bewertung: Richtig
+
+Zeit: 3.09 Sekunden
+
+Aufgabe 4: 3 * 8 = ?
+Deine Antwort: 24
+Richtige Antwort: 24
+Bewertung: Richtig
+
+Zeit: 4.52 Sekunden
+
+Aufgabe 5: 8 * 1 = ?
+Deine Antwort: 8
+Richtige Antwort: 8
+Bewertung: Richtig
+
+Zeit: 3.86 Sekunden
+
+Aufgabe 6: 8 * 6 = ?
+Deine Antwort: 48
+Richtige Antwort: 48
+Bewertung: Richtig
+
+Zeit: 28.66 Sekunden
+
+Aufgabe 7: 7 * 5 = ?
+Deine Antwort: 35
+Richtige Antwort: 35
+Bewertung: Richtig
+
+Zeit: 4.12 Sekunden
+
+Aufgabe 8: 6 * 3 = ?
+Deine Antwort: 18
+Richtige Antwort: 18
+Bewertung: Richtig
+
+Zeit: 11.68 Sekunden
+
+Aufgabe 9: 5 * 5 = ?
+Deine Antwort: 25
+Richtige Antwort: 25
+Bewertung: Richtig
+
+Zeit: 4.39 Sekunden
+
+Aufgabe 10: 6 * 5 = ?
+Deine Antwort: 30
+Richtige Antwort: 30
+Bewertung: Richtig
+
+Zeit: 4.88 Sekunden
+
+Aufgabe 11: 4 * 5 = ?
+Deine Antwort: 20
+Richtige Antwort: 20
+Bewertung: Richtig
+
+Zeit: 2.97 Sekunden
+
+Aufgabe 12: 2 * 9 = ?
+Deine Antwort: 18
+Richtige Antwort: 18
+Bewertung: Richtig
+
+Zeit: 8.87 Sekunden
+
+Aufgabe 13: 7 * 2 = ?
+Deine Antwort: 14
+Richtige Antwort: 14
+Bewertung: Richtig
+
+Zeit: 4.04 Sekunden
+
+Aufgabe 14: 7 * 9 = ?
+Deine Antwort: 63
+Richtige Antwort: 63
+Bewertung: Richtig
+
+Zeit: 10.89 Sekunden
+
+Aufgabe 15: 9 * 9 = ?
+Deine Antwort: 81
+Richtige Antwort: 81
+Bewertung: Richtig
+
+Zeit: 2.53 Sekunden
+
+Aufgabe 16: 9 * 9 = ?
+Deine Antwort: 81
+Richtige Antwort: 81
+Bewertung: Richtig
+
+Zeit: 2.91 Sekunden
+
+Aufgabe 17: 5 * 9 = ?
+Deine Antwort: 45
+Richtige Antwort: 45
+Bewertung: Richtig
+
+Zeit: 19.73 Sekunden
+
+Aufgabe 18: 2 * 7 = ?
+Deine Antwort: 14
+Richtige Antwort: 14
+Bewertung: Richtig
+
+Zeit: 2.25 Sekunden
+
+Aufgabe 19: 10 * 7 = ?
+Deine Antwort: 70
+Richtige Antwort: 70
+Bewertung: Richtig
+
+Zeit: 2.24 Sekunden
+
+Aufgabe 20: 3 * 8 = ?
+Deine Antwort: 24
+Richtige Antwort: 24
+Bewertung: Richtig
+
+Zeit: 10.59 Sekunden
+
+Aufgabe 21: 9 * 3 = ?
+Deine Antwort: 27
+Richtige Antwort: 27
+Bewertung: Richtig
+
+Zeit: 11.23 Sekunden
+
+Aufgabe 22: 2 * 9 = ?
+Deine Antwort: 18
+Richtige Antwort: 18
+Bewertung: Richtig
+
+Zeit: 2.73 Sekunden
+
+Aufgabe 23: 10 * 5 = ?
+Deine Antwort: 50
+Richtige Antwort: 50
+Bewertung: Richtig
+
+Zeit: 1.95 Sekunden
+
+Aufgabe 24: 10 * 2 = ?
+Deine Antwort: 20
+Richtige Antwort: 20
+Bewertung: Richtig
+
+Zeit: 1.84 Sekunden
+
+Aufgabe 25: 1 * 7 = ?
+Deine Antwort: 7
+Richtige Antwort: 7
+Bewertung: Richtig
+
+Zeit: 1.82 Sekunden
+
+Aufgabe 26: 5 * 9 = ?
+Deine Antwort: 45
+Richtige Antwort: 45
+Bewertung: Richtig
+
+Zeit: 5.04 Sekunden
+
+Aufgabe 27: 4 * 5 = ?
+Deine Antwort: 20
+Richtige Antwort: 20
+Bewertung: Richtig
+
+Zeit: 3.55 Sekunden
+
+Aufgabe 28: 5 * 1 = ?
+Deine Antwort: 5
+Richtige Antwort: 5
+Bewertung: Richtig
+
+Zeit: 1.74 Sekunden
+
+Aufgabe 29: 2 * 10 = ?
+Deine Antwort: 20
+Richtige Antwort: 20
+Bewertung: Richtig
+
+Zeit: 1.99 Sekunden
+
+Aufgabe 30: 10 * 9 = ?
+Deine Antwort: 90
+Richtige Antwort: 90
+Bewertung: Richtig
+
+Zeit: 2.24 Sekunden
+
+Aufgabe 31: 9 * 6 = ?
+Deine Antwort: 54
+Richtige Antwort: 54
+Bewertung: Richtig
+
+Zeit: 11.02 Sekunden
+
+Aufgabe 32: 3 * 5 = ?
+Deine Antwort: 15
+Richtige Antwort: 15
+Bewertung: Richtig
+
+Zeit: 5.65 Sekunden
+
+Aufgabe 33: 10 * 6 = ?
+Deine Antwort: 60
+Richtige Antwort: 60
+Bewertung: Richtig
+
+Zeit: 2.02 Sekunden
+
+Aufgabe 34: 9 * 9 = ?
+Deine Antwort: 81
+Richtige Antwort: 81
+Bewertung: Richtig
+
+Zeit: 4.12 Sekunden
+
+Aufgabe 35: 8 * 2 = ?
+Deine Antwort: 16
+Richtige Antwort: 16
+Bewertung: Richtig
+
+Zeit: 4.70 Sekunden
+
+Aufgabe 36: 4 * 2 = ?
+Deine Antwort: 8
+Richtige Antwort: 8
+Bewertung: Richtig
+
+Zeit: 2.57 Sekunden
+
+Aufgabe 37: 4 * 7 = ?
+Deine Antwort: 28
+Richtige Antwort: 28
+Bewertung: Richtig
+
+Zeit: 6.89 Sekunden
+
+Aufgabe 38: 6 * 2 = ?
+Deine Antwort: 12
+Richtige Antwort: 12
+Bewertung: Richtig
+
+Zeit: 2.00 Sekunden
+
+Aufgabe 39: 9 * 8 = ?
+Deine Antwort: 72
+Richtige Antwort: 72
+Bewertung: Richtig
+
+Zeit: 7.96 Sekunden
+
+Aufgabe 40: 9 * 5 = ?
+Deine Antwort: 45
+Richtige Antwort: 45
+Bewertung: Richtig
+
+Zeit: 5.00 Sekunden
+
+Aufgabe 41: 10 * 1 = ?
+Deine Antwort: 10
+Richtige Antwort: 10
+Bewertung: Richtig
+
+Zeit: 2.48 Sekunden
+
+Aufgabe 42: 3 * 5 = ?
+Deine Antwort: 15
+Richtige Antwort: 15
+Bewertung: Richtig
+
+Zeit: 4.42 Sekunden
+
+Aufgabe 43: 8 * 10 = ?
+Deine Antwort: 80
+Richtige Antwort: 80
+Bewertung: Richtig
+
+Zeit: 2.28 Sekunden
+
+Aufgabe 44: 2 * 1 = ?
+Deine Antwort: 2
+Richtige Antwort: 2
+Bewertung: Richtig
+
+Zeit: 1.66 Sekunden
+
+Aufgabe 45: 4 * 10 = ?
+Deine Antwort: 40
+Richtige Antwort: 40
+Bewertung: Richtig
+
+Zeit: 2.80 Sekunden
+
+Aufgabe 46: 7 * 6 = ?
+Deine Antwort: 28
+Richtige Antwort: 42
+Bewertung: Falsch
+
+Zeit: 8.25 Sekunden
+
+Aufgabe 47: 5 * 7 = ?
+Deine Antwort: 35
+Richtige Antwort: 35
+Bewertung: Richtig
+
+Zeit: 18.78 Sekunden
+
+Aufgabe 48: 7 * 8 = ?
+Deine Antwort: 56
+Richtige Antwort: 56
+Bewertung: Richtig
+
+Zeit: 11.91 Sekunden
+
+Aufgabe 49: 6 * 2 = ?
+Deine Antwort: 12
+Richtige Antwort: 12
+Bewertung: Richtig
+
+Zeit: 3.35 Sekunden
+
+Aufgabe 50: 9 * 7 = ?
+Deine Antwort: 63
+Richtige Antwort: 63
+Bewertung: Richtig
+
+Zeit: 6.29 Sekunden
+
+Aufgabe 51: 8 * 2 = ?
+Deine Antwort: 16
+Richtige Antwort: 16
+Bewertung: Richtig
+
+Zeit: 6.51 Sekunden
+
