@@ -58,7 +58,7 @@ def main() -> None:
 			datei_inhalt.flush()
 			aufgaben_seit_clear += 1
 
-			if aufgaben_seit_clear == 2:
+			if aufgaben_seit_clear == 1:
 				os.system("cls" if os.name == "nt" else "clear")
 				aufgaben_seit_clear = 0
 
