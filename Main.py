@@ -1,4 +1,5 @@
 from pathlib import Path
+import os
 import random
 import time
 
@@ -21,6 +22,7 @@ def main() -> None:
 	print("Löse die Multiplikationsaufgaben. Gib 'ende' ein, um aufzuhören.")
 	datei = neue_sitzungsdatei()
 	print(f"Alle Antworten dieser Runde werden in {datei.name} gespeichert.")
+	aufgaben_seit_clear = 0
 
 	with datei.open("a", encoding="utf-8") as datei_inhalt:
 		while True:
@@ -54,6 +56,11 @@ def main() -> None:
 			)
 			datei_inhalt.write(inhalt)
 			datei_inhalt.flush()
+			aufgaben_seit_clear += 1
+
+			if aufgaben_seit_clear == 2:
+				os.system("cls" if os.name == "nt" else "clear")
+				aufgaben_seit_clear = 0
 
 			if ist_richtig:
 				print("Richtig!")
