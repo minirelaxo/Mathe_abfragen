@@ -19,7 +19,7 @@ def neue_sitzungsdatei() -> Path:
 
 
 def main() -> None:
-	print("Löse die Multiplikationsaufgaben. Gib 'ende' ein, um aufzuhören.")
+	print("Löse die Additionsaufgaben. Gib 'ende' ein, um aufzuhören.")
 	datei = neue_sitzungsdatei()
 	print(f"Alle Antworten dieser Runde werden in {datei.name} gespeichert.")
 	aufgaben_seit_clear = 0
@@ -27,14 +27,14 @@ def main() -> None:
 
 	with datei.open("a", encoding="utf-8") as datei_inhalt:
 		while True:
-			zahl_1 = random.randint(1, 10)
-			zahl_2 = random.randint(1, 10)
-			richtiges_ergebnis = zahl_1 * zahl_2
+			zahl_1 = random.randint(1, 100)
+			zahl_2 = random.randint(1, 100)
+			richtiges_ergebnis = zahl_1 + zahl_2
 			aufgaben_start = time.perf_counter()
 
 			while True:
 				antwort = input(
-					f"Aufgabe {aufgaben_gesamt + 1} | {zahl_1} * {zahl_2} = "
+					f"Aufgabe {aufgaben_gesamt + 1} | {zahl_1} + {zahl_2} = "
 				).strip()
 				if antwort.casefold() == "ende":
 					print(f"Du hast insgesamt {aufgaben_gesamt} Aufgaben beantwortet.")
@@ -53,7 +53,7 @@ def main() -> None:
 			ist_richtig = ergebnis == richtiges_ergebnis
 			bewertung = "Richtig" if ist_richtig else "Falsch"
 			inhalt = (
-				f"Aufgabe {aufgaben_gesamt}: {zahl_1} * {zahl_2} = ?\n"
+				f"Aufgabe {aufgaben_gesamt}: {zahl_1} + {zahl_2} = ?\n"
 				f"Deine Antwort: {ergebnis}\n"
 				f"Richtige Antwort: {richtiges_ergebnis}\n"
 				f"Bewertung: {bewertung}\n\n"
