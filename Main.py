@@ -23,6 +23,7 @@ def main() -> None:
 	datei = neue_sitzungsdatei()
 	print(f"Alle Antworten dieser Runde werden in {datei.name} gespeichert.")
 	aufgaben_seit_clear = 0
+	aufgaben_gesamt = 0
 
 	with datei.open("a", encoding="utf-8") as datei_inhalt:
 		while True:
@@ -32,8 +33,11 @@ def main() -> None:
 			aufgaben_start = time.perf_counter()
 
 			while True:
-				antwort = input(f"{zahl_1} * {zahl_2} = ").strip()
+				antwort = input(
+					f"Aufgabe {aufgaben_gesamt + 1} | {zahl_1} * {zahl_2} = "
+				).strip()
 				if antwort.casefold() == "ende":
+					print(f"Du hast insgesamt {aufgaben_gesamt} Aufgaben beantwortet.")
 					return
 
 				try:
@@ -45,10 +49,11 @@ def main() -> None:
 				break
 
 			dauer = time.perf_counter() - aufgaben_start
+			aufgaben_gesamt += 1
 			ist_richtig = ergebnis == richtiges_ergebnis
 			bewertung = "Richtig" if ist_richtig else "Falsch"
 			inhalt = (
-				f"Aufgabe: {zahl_1} * {zahl_2} = ?\n"
+				f"Aufgabe {aufgaben_gesamt}: {zahl_1} * {zahl_2} = ?\n"
 				f"Deine Antwort: {ergebnis}\n"
 				f"Richtige Antwort: {richtiges_ergebnis}\n"
 				f"Bewertung: {bewertung}\n\n"
@@ -66,6 +71,7 @@ def main() -> None:
 				print("Richtig!")
 			else:
 				print(f"Leider falsch. Richtig wäre {richtiges_ergebnis}.")
+			print(f"Beantwortete Aufgaben: {aufgaben_gesamt}")
 			print(f"Zeit: {dauer:.2f} Sekunden")
 
 
