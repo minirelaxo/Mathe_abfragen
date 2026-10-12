@@ -1,0 +1,140 @@
+Aufgabe 1: 5 * 5 = ?
+Deine Antwort: 25
+Richtige Antwort: 25
+Bewertung: Richtig
+
+Zeit: 6.47 Sekunden
+
+Aufgabe 2: 4 * 4 = ?
+Deine Antwort: 16
+Richtige Antwort: 16
+Bewertung: Richtig
+
+Zeit: 4.98 Sekunden
+
+Aufgabe 3: 3 * 3 = ?
+Deine Antwort: 9
+Richtige Antwort: 9
+Bewertung: Richtig
+
+Zeit: 2.48 Sekunden
+
+Aufgabe 4: 6 * 5 = ?
+Deine Antwort: 30
+Richtige Antwort: 30
+Bewertung: Richtig
+
+Zeit: 6.52 Sekunden
+
+Aufgabe 5: 4 * 3 = ?
+Deine Antwort: 12
+Richtige Antwort: 12
+Bewertung: Richtig
+
+Zeit: 3.86 Sekunden
+
+Aufgabe 6: 7 * 5 = ?
+Deine Antwort: 35
+Richtige Antwort: 35
+Bewertung: Richtig
+
+Zeit: 3.07 Sekunden
+
+Aufgabe 7: 3 * 7 = ?
+Deine Antwort: 21
+Richtige Antwort: 21
+Bewertung: Richtig
+
+Zeit: 11.77 Sekunden
+
+Aufgabe 8: 7 * 2 = ?
+Deine Antwort: 14
+Richtige Antwort: 14
+Bewertung: Richtig
+
+Zeit: 2.16 Sekunden
+
+Aufgabe 9: 8 * 3 = ?
+Deine Antwort: 24
+Richtige Antwort: 24
+Bewertung: Richtig
+
+Zeit: 7.60 Sekunden
+
+Aufgabe 10: 4 * 7 = ?
+Deine Antwort: 28
+Richtige Antwort: 28
+Bewertung: Richtig
+
+Zeit: 4.85 Sekunden
+
+Aufgabe 11: 5 * 3 = ?
+Deine Antwort: 15
+Richtige Antwort: 15
+Bewertung: Richtig
+
+Zeit: 3.44 Sekunden
+
+Aufgabe 12: 3 * 2 = ?
+Deine Antwort: 6
+Richtige Antwort: 6
+Bewertung: Richtig
+
+Zeit: 2.30 Sekunden
+
+Aufgabe 13: 3 * 7 = ?
+Deine Antwort: 21
+Richtige Antwort: 21
+Bewertung: Richtig
+
+Zeit: 4.81 Sekunden
+
+Aufgabe 14: 2 * 6 = ?
+Deine Antwort: 12
+Richtige Antwort: 12
+Bewertung: Richtig
+
+Zeit: 1.69 Sekunden
+
+Aufgabe 15: 5 * 8 = ?
+Deine Antwort: 40
+Richtige Antwort: 40
+Bewertung: Richtig
+
+Zeit: 5.46 Sekunden
+
+Aufgabe 16: 9 * 9 = ?
+Deine Antwort: 81
+Richtige Antwort: 81
+Bewertung: Richtig
+
+Zeit: 3.60 Sekunden
+
+Aufgabe 17: 9 * 8 = ?
+Deine Antwort: 72
+Richtige Antwort: 72
+Bewertung: Richtig
+
+Zeit: 5.84 Sekunden
+
+Aufgabe 18: 3 * 3 = ?
+Deine Antwort: 9
+Richtige Antwort: 9
+Bewertung: Richtig
+
+Zeit: 3.32 Sekunden
+
+Aufgabe 19: 2 * 5 = ?
+Deine Antwort: 10
+Richtige Antwort: 10
+Bewertung: Richtig
+
+Zeit: 3.29 Sekunden
+
+Aufgabe 20: 6 * 8 = ?
+Deine Antwort: 48
+Richtige Antwort: 48
+Bewertung: Richtig
+
+Zeit: 11.08 Sekunden
+
